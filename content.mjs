@@ -1,0 +1,7 @@
+// Replace cover/detail paths with assets/renders/... and update captions together.
+export const email = 'aniketsutar@gmail.com';
+export const projects = [
+  {slug:'the-sitting-room', name:'The sitting room', material:'Oak, linen & limewash', cover:'assets/gallery.svg', detail:'assets/gallery-detail.svg', alt:'Illustration of a linen sofa beneath a deep arched opening', caption:'A low seat against the full height of the arch.', text:'A long, low sofa leaves the arch in view. Vertical grain at the edge of the room draws the eye back from the furniture to the height of the wall.'},
+  {slug:'a-place-at-the-table', name:'A place at the table', material:'Timber, clay & daylight', cover:'assets/dining.svg', detail:'assets/dining-detail.svg', alt:'Illustration of an oval timber table beside a tall window', caption:'The curve of the pendant echoes the edge of the tabletop.', text:'The window sets the axis of this dining study. An oval tabletop softens the approach from either end, while a single pendant brings the scale down to the people seated beneath it.'},
+  {slug:'the-wall-niche', name:'The wall niche', material:'Plaster, ceramic & walnut', cover:'assets/alcove.svg', detail:'assets/alcove-detail.svg', alt:'Illustration of ceramic vessels on a shelf in a plaster niche', caption:'A recessed shelf gives small objects a place of their own.', text:'A shelf sits just inside the curve of a plaster recess. The shadow along the return makes its depth legible, and the timber front gives quiet objects a warmer ground.'}
+];
